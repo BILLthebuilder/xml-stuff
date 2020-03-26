@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipes [
+<!ELEMENT recipes (origin,recipe,title,ingredients,instructions,composer,serves,links,vegan,halal,
+diabetics, image)>
+<!ELEMENT recipes (origin)>
+<!ELEMENT recipe (recipe*)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT ingredients (#PCDATA)>
+<!ELEMENT instructions (#PCDATA)>
+<!ELEMENT composer (#PCDATA)>
+<!ENTITY composer "John Doe">
+<!ENTITY copyright "Copyright ChefMaster recipes">
+<!ELEMENT serves (#PCDATA)>
+<!ELEMENT links (#PCDATA)>
+<!ELEMENT vegan (#PCDATA)>
+<!ELEMENT halal (#PCDATA)>
+<!ELEMENT diabetics (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT delivery (#PCDATA)>
+]>
+<recipes>
+<origin></origin>
+<recipe>
+<title></title>
+<ingredients>
+item 1
+item 2
+item n
+</ingredients>
+<instructions>
+write instructions for preparation here
+</instructions>
+<composer>
+&composer;
+&copyright;
+</composer>
+<serves></serves>
+<links></links>
+<vegan>Yes or No</vegan>
+<halal>Yes or No</halal>
+<diabetics>Yes or No</diabetics>
+<price></price>
+<image original="yes">
+Insert Image here
+</image>
+<delivery> Yes or No</delivery>
+</recipe>
+</recipes>

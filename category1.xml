@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipes [
+<!ELEMENT recipes (origin,recipe1,recipe2,recipe3,title,ingredients,instructions,
+composer,serves,links,vegan,halal,
+diabetics, image)>
+<!ELEMENT origin (#PCDATA)>
+<!ELEMENT recipe1 (#PCDATA)>
+<!ELEMENT recipe2 (#PCDATA)>
+<!ELEMENT recipe3 (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT ingredients (#PCDATA)>
+<!ELEMENT instructions (#PCDATA)>
+<!ELEMENT composer (#PCDATA)>
+<!ENTITY composer "Person 1">
+<!ENTITY copyright "Copyright ChefMaster recipes">
+<!ELEMENT serves (#PCDATA)>
+<!ELEMENT links (#PCDATA)>
+<!ELEMENT vegan (#PCDATA)>
+<!ELEMENT halal (#PCDATA)>
+<!ELEMENT diabetics (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT delivery (#PCDATA)>
+]>
+<recipes>
+    <origin>Asian</origin>
+    <recipe1>
+        <title>Miso butter snapper with broccolini</title>
+        <ingredients>
+        1 tablespoon white miso paste
+        25g softened unsalted butter
+        2 x 180g skinless snapper fillets
+        1 teaspoon sesame oil
+        2 small red chillies, thinly sliced, plus extra thinly sliced to serve
+        1 tablespoon soy sauce
+        1 tablespoon peanut oil
+        2 bunches broccolini, halved lengthways
+        150g mixed mushrooms (shimeji and enoki), stalks trimmed
+        1 teaspoon sesame seeds
+        Juice of 1/2 lime
+        Thinly sliced spring onion, to garnish
+        </ingredients>
+        <instructions>
+       
+            Step 1
+        Preheat the oven to 200C. Line a baking dish with baking paper.
+       
+            Step 2
+        Combine miso and butter, then spread over snapper. Combine sesame oil, chilli, soy sauce and peanut oil in a
+        bowl. Add
+        broccolini, mushrooms and sesame seeds, toss to combine, then spread over the base of prepared baking dish. Top
+        with
+        snapper. Roast for 18-20 minutes until snapper is just cooked and the broccolini is tender.
+       
+            Step 3
+        To serve, squeeze over lime juice and scatter with spring onion and extra chilli.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        images/miso-butter-snapper-with-broccolini-103096-1.jpeg
+        </image>
+        <delivery> Yes </delivery>
+    </recipe1>
+    <recipe2>
+        <title>Asian duck and choy sum omelette</title>
+        <ingredients>
+        2 eggs, lightly whisked
+        1 tablespoon water
+        1 teaspoon peanut oil
+        1 teaspoon sesame oil
+        1/2 Chinese barbecued duck, bones removed, coarsely shredded
+        2 cups (100g) bean sprouts
+        1 bunch baby choy sum, trimmed
+        1/4 cup (60ml) oyster sauce
+        2 teaspoons finely grated ginger
+        1/2 cup coriander leaves
+        </ingredients>
+        <instructions>
+        Step 1
+        Whisk the egg and water together in a medium bowl. Heat the peanut oil in a wok 
+        over high heat. Add the egg and swirl around the wok to cover the pan and to 
+        make a thin omelette. Cook for 1-2 minutes or until lightly golden and just set. 
+        Transfer to a large serving plate.
+        Step 2
+        Add the sesame oil to the wok. Add the duck, bean sprouts and 
+        choy sum and stir-fry for 1-2 minutes or until heated though and just 
+        beginning to wilt. Add the oyster sauce and ginger and stir-fry for 1 minute 
+        or until heated through. Remove from heat.
+        Step 3
+        Spoon the duck mixture over half the omelette. Fold over the 
+        remaining half to loosely enclose the duck mixture. Sprinkle with coriander 
+        leaves and serve immediately.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        images/asian-duck-and-choy-sum-omelette-70169-1.jpeg
+        </image>
+        <delivery> Yes </delivery>
+    </recipe2>
+    <recipe3>
+        <title>Classic fried rice</title>
+        <ingredients>
+            1/4 cup (60ml) peanut oil
+            1 1/2 tablespoons light soy sauce
+            2 eggs, lightly beaten
+            1 lap cheong (see notes), thinly sliced
+            1 garlic clove, thinly sliced
+            2 teaspoons grated ginger
+            1 onion, thinly sliced into wedges
+            2 cups shredded choy sum
+            1/2 cup sliced spring onion
+            5 cups cooked white rice, cooled
+            2 teaspoons sesame oil
+        </ingredients>
+        <instructions>
+        Step 1
+        Heat 1 tbs oil in a wok over medium-high heat. Add 1/2 tbs soy sauce to the eggs 
+        and whisk to combine, then add to the wok, swirling over the base to form an omelette. 
+        Cook for 1 minute or until almost cooked. Transfer to a board and chop into small pieces, 
+        then set aside.
+        Step 2
+        Return the wok to medium-high heat, add remaining 2 tbs oil and fry 
+        the lap cheong for 1-2 minutes until crisp. Remove from wok and drain on paper towel.
+        Step 3
+        Add the garlic, ginger and onion to the wok. Stir-fry for 1 minute, 
+        then add the choy sum, spring onion and rice, and stir-fry for 1-2 minutes 
+        until the greens have wilted and the rice is heated through.
+        Step 4
+        Return the lap cheong and omelette to the fried rice with 
+        the sesame oil and remaining 1 tbs soy sauce. Stir-fry for 10 seconds 
+        until well combined and heated through, then serve.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        images/classic-fried-rice-97202-1.jpeg
+        </image>
+        <delivery> Yes </delivery>
+    </recipe3>
+</recipes>

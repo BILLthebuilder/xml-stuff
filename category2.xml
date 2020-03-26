@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipes [
+<!ELEMENT recipes (origin,recipe1,recipe2,recipe3,title,ingredients,instructions,
+composer,serves,links,vegan,halal,
+diabetics, image)>
+<!ELEMENT origin (#PCDATA)>
+<!ELEMENT recipe1 (#PCDATA)>
+<!ELEMENT recipe2 (#PCDATA)>
+<!ELEMENT recipe3 (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT ingredients (#PCDATA)>
+<!ELEMENT instructions (#PCDATA)>
+<!ELEMENT composer (#PCDATA)>
+<!ENTITY composer "Person 2">
+<!ENTITY copyright "Copyright ChefMaster recipes">
+<!ELEMENT serves (#PCDATA)>
+<!ELEMENT links (#PCDATA)>
+<!ELEMENT vegan (#PCDATA)>
+<!ELEMENT halal (#PCDATA)>
+<!ELEMENT diabetics (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT delivery (#PCDATA)>
+]>
+<recipes>
+    <origin>Chinese</origin>
+    <recipe1>
+        <title>Chicken chow mein dinner bowl</title>
+        <ingredients>
+        350g packet fresh chow mein noodles
+        2 teaspoons sesame oil
+        2 1/2 cups finely shredded red cabbage
+        1 baby pak choy, thinly sliced crossways
+        227g can sliced water chestnuts, drained, thinly sliced
+        1 tablespoon vegetable oil
+        500g chicken breast stir-fry strips
+        3 garlic cloves, crushed
+        1/4 cup oyster sauce
+        2 tablespoons soy sauce
+        2 tablespoons shao hsing (Chinese rice wine)
+        1/4 teaspoon ground white pepper
+        2 carrots, cut into matchsticks
+        1/2 cup bean sprouts, trimmed
+        3 green onions, thinly sliced
+        2 teaspoons sesame seeds, toasted
+        1 sliced long red chilli, to serve
+        </ingredients>
+        <instructions>
+        Step 1
+        Cook noodles following packet directions. Drain. Place in a bowl. 
+        Add 1/2 the sesame oil. Toss to combine.
+        Step 2
+        Meanwhile, combine cabbage, pak choy and water chestnuts in a bowl.
+        Step 3
+        Heat vegetable oil and remaining sesame oil in a wok or large frying pan. 
+        Stir-fry chicken for 5 minutes or until browned. 
+        Add garlic, sauces, shao hsing and pepper. 
+        Stir-fry for 2 minutes or until chicken is cooked through and sauce mixture thickens slightly.
+        Step 4
+        Arrange noodles, cabbage mixture, chicken mixture and carrot in serving bowls. 
+        Top with bean sprouts, green onion, sesame seeds and chilli. Serve.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        None
+        </image>
+        <delivery> Yes </delivery>
+    </recipe1>
+    <recipe2>
+        <title>Sticky Chinese barbecue lamb</title>
+        <ingredients>
+        1/3 cup (95g) hoisin sauce
+        2 tablespoons soy sauce
+        1 teaspoon Chinese five spice
+        3 garlic cloves, crushed
+        1 tablespoon ginger, finely grated
+        2.6kg Coles Australian Lamb Whole Leg Roast
+        2 brown onions, quartered
+        1/2 cup coriander sprigs
+        Steamed jasmine rice, to serve
+        Steamed Chinese broccoli, to serve
+        Sliced red chilli, to serve
+        </ingredients>
+        <instructions>
+        Step 1
+        Preheat a covered barbecue on medium. Alternatively, preheat oven to 200C.
+        Step 2
+        Combine hoisin sauce, soy sauce, Chinese five spice, garlic, ginger and 2 tablespoons of 
+        water in a jug. Score lamb at 1cm intervals. Rub half the mixture all over lamb. 
+        Place onion in a disposable baking dish. Top with lamb. 
+        Cover with foil. Bake in covered barbecue using indirect heat, or in oven, 
+        for 2 hours 30 mins, brushing with remaining hoisin mixture every 15 mins for the last hour, for medium or until cooked to your liking.
+        Step 3
+        Transfer lamb to a plate and cover with foil. 
+        Set aside for 20 mins to rest. Top lamb with coriander. 
+        Serve with rice, broccoli and chilli.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        None
+        </image>
+        <delivery> Yes </delivery>
+    </recipe2>
+    <recipe3>
+        <title>Mr Shum's dumplings</title>
+        <ingredients>
+            1/4 teaspoon ground white pepper
+            2 teaspoons shao hsing (Chinese cooking wine)
+            1 teaspoon sesame oil
+            5g chicken stock cube, crumbled
+            1 teaspoon caster sugar
+            1 teaspoon salt
+            1 garlic clove, crushed
+            350g pork mince
+            1 cup shredded wombok (Chinese cabbage)
+            1/2 brown onion, finely chopped
+            1 small celery stalk, finely chopped
+            30 gow gee wrappers
+            1/4 cup peanut oil
+            Seasoned red vinegar, to serve
+            Finely shredded fresh ginger, to serve
+        </ingredients>
+        <instructions>
+            Step 1
+            Place pepper, wine, sesame oil, stock cube, sugar, salt and garlic in a bowl. 
+            Using a fork, mash until a smooth paste forms. Add mince, wombok, onion and celery. 
+            Mix for 5 minutes or until mixture is combined and sticky.
+            Step 2
+            Place 1 gow gee wrapper on a flat surface. 
+            Spoon 2 level teaspoons of pork mixture into centre of wrapper. 
+            Brush edges with cold water. Press edges together to seal, then pleat. 
+            Place on a baking paper-lined baking tray. Cover with a clean tea towel. 
+            Repeat with remaining wrappers and pork mixture, placing dumplings in a single layer on tray.
+            Step 3
+            Preheat oven to 150°C/130°C fan-forced. 
+            Line a large baking tray with baking paper. 
+            Heat 1 tablespoon peanut oil in a large non-stick frying pan over medium heat. 
+            Add 10 dumplings. Cook for 2 minutes or until bases are golden brown. 
+            Gently pour over 1/2 cup hot water. Cover. 
+            Cook for a further 5 minutes or until water evaporates and dumplings are cooked through. Transfer to the prepared baking tray. Cover loosely with foil. Place in an oven to keep warm.
+            Step 4
+            Repeat, in 2 batches, with remaining oil and dumplings. 
+            Serve immediately with combined vinegar and ginger.
+        </instructions>
+        <composer>
+        &composer;
+        &copyright;
+        </composer>
+        <serves> 1 Person </serves>
+        <links>None</links>
+        <vegan>No</vegan>
+        <halal>Yes </halal>
+        <diabetics>No</diabetics>
+        <price>$100</price>
+        <image original="yes">
+        None
+        </image>
+        <delivery> Yes </delivery>
+    </recipe3>
+</recipes>
